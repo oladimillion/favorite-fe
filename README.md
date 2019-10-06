@@ -25,7 +25,12 @@ npm run test
 npm run lint
 ```
 
-### Checkout the backend application @ [https://github.com/oladimillion/favorite-be](https://github.com/oladimillion/favorite-be)
+## Checkout the backend application @ [https://github.com/oladimillion/favorite-be](https://github.com/oladimillion/favorite-be)
+
+
+### Screenshots
+
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
